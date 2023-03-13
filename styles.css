@@ -26,6 +26,10 @@ body {
     text-align: center;
 }
 
+.game {
+    text-align: center;
+}
+
 .game button {
     color: white;
     background-color: #0f5877;
